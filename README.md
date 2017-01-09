@@ -1,2 +1,2 @@
 # Trump_Tweets
-Just an archive a tweets from our President elect
+Just an archive of tweets from our President elect
